@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+
+
+.a{
+
+	padding-top: 5px;
+	margin-left: 450px;
+}
+.c{
+	padding-top: 15px;
+}
+p{
+float: right;}
+.p{
+border: 1px solid black;
+margin-right: 4px;
+}
+.im{
+	float: right;
+	height: 50px;
+	width: 50px;
+
+}
+.r{
+	float: right;
+	margin-top: 20px;
+}
+.m{
+	float: right;
+	
+}
